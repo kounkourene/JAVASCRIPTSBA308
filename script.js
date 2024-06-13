@@ -100,7 +100,6 @@ function getLearnerData(courseInfo, assignmentGroups, learnerSubmissions) {
   }
 }
 
-// Example usage:
 const courseInfo = {
   id: 1,
   name: "Course 1",
